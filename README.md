@@ -1,39 +1,31 @@
 # 🚀 Front-End Developer
 
 Welcome to my GitHub profile!  
-I'm a passionate **Front-End Developer** who loves crafting user-friendly interfaces and bringing ideas to life through clean, efficient code.
-
----
+I'm a dedicated Front-End Developer focused on creating intuitive, high-performance user experiences through well-structured and maintainable code.
 
 ## 🔥 Skills & Technologies
 
-**Languages:**  
-JavaScript, C++, CSS, HTML
+**Languages:** JavaScript, C++, CSS, HTML.
 
-**Version Control:**  
-Git, GitHub
+**Version Control:** Git, GitHub.
 
-**Tools & Environments:**  
-VS Code, [add others if needed — like Figma, Chrome DevTools, etc.]
-
----
+**Other Tools :** VS Code, etc.
 
 ## 📌 What I Do
 
-- 🖥️ Build responsive and interactive websites  
-- 🎨 Design clean and user-friendly interfaces  
-- 🔧 Optimize performance and accessibility  
-- 🚀 Continuously learn and improve my skills
+ 🖥️ Build responsive and interactive websites  
+ 🎨 Design clean and user-friendly interfaces  
+ 🔧 Optimize performance and accessibility  
+ 🚀 Continuously learn and improve my skills
 
----
-
+  
 ## 📫 Let's Connect!
 
 Feel free to check out my projects below or reach out if you'd like to collaborate.
 
-- 🌐 Portfolio: [your website or portfolio link]  
-- 💼 LinkedIn: [your LinkedIn profile link]  
-- 📬 Email: [your email address]
+ 🧑‍💻 GitHub : [Samuel-Shiferaw]  
+ 💼 LinkedIn: [Samuel Solomon]  
+ 📬 Email: [samuelsolomon.sh@gmail.com]
 
 ---
 
