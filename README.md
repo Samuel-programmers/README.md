@@ -24,10 +24,9 @@ I'm a dedicated Front-End Developer focused on creating intuitive, high-performa
 Feel free to check out my projects below or reach out if you'd like to collaborate.
 
 🧑‍💻 GitHub: [Samuel-Shiferaw](https://github.com/Samuel-Shiferaw)  
-💼 LinkedIn: [Samuel Solomon](https://www.linkedin.com/in/slaimdiu/)  
+💼 LinkedIn: [Samuel Solomon](https://www.linkedin.com/in/slaimdiu@gmail.com/)  
 - 📬 Email: [samuelsolomon.sh@gmail.com](mailto:samuelsolomon.sh@gmail.com)
 
 ---
 
 Thanks for visiting my profile! ⭐  
-# README.md
