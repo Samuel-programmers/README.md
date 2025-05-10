@@ -5,11 +5,11 @@ Welcome to my GitHub profile!
 I'm a dedicated Front-End Developer focused on creating intuitive, high-performance user experiences through well-structured and maintainable code.
 
 ## 🔥 Skills & Technologies
-**•** Languages:** JavaScript, C++, CSS, HTML. 
+**•** **Languages:** JavaScript, C++, CSS, HTML. 
 
-**•** Version Control:** Git, GitHub.
+**•** **Version Control:** Git, GitHub.
 
-**•** Other Tools :** VS Code, etc.
+**•** **Other Tools :** VS Code, etc.
 
 ## 📌 What I Do
 
