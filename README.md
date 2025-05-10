@@ -13,20 +13,20 @@ I'm a dedicated Front-End Developer focused on creating intuitive, high-performa
 
 ## 📌 What I Do
 
- 🖥️ Build responsive and interactive websites  
- 🎨 Design clean and user-friendly interfaces  
- 🔧 Optimize performance and accessibility  
- 🚀 Continuously learn and improve my skills
+**.** 🖥️ Build responsive and interactive websites  
+ **.**🎨 Design clean and user-friendly interfaces  
+ **.**🔧 Optimize performance and accessibility  
+ **.**🚀 Continuously learn and improve my skills
 
   
 ## 📫 Let's Connect!
 
 Feel free to check out my projects below or reach out if you'd like to collaborate.
 
-🧑‍💻 GitHub: [Samuel-Shiferaw](https://github.com/Samuel-Shiferaw)  
-💼 LinkedIn: [Samuel Solomon](https://www.linkedin.com/in/slaimdiu@gmail.com/)  
-- 📬 Email: [samuelsolomon.sh@gmail.com](mailto:samuelsolomon.sh@gmail.com)
+**.** GitHub: [Samuel-Shiferaw](https://github.com/Samuel-Shiferaw)  
+**.**LinkedIn: [Samuel Solomon](https://www.linkedin.com/in/slaimdiu@gmail.com/)  
+**.** Email: [samuelsolomon.sh@gmail.com](mailto:samuelsolomon.sh@gmail.com)
 
----
+
 
 Thanks for visiting my profile! ⭐  
